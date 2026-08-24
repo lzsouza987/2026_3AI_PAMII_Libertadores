@@ -157,3 +157,4 @@ D:\Work\Etec\2026-3AI_ETIM_PAMII\ApiLibertadoresHAS\obj\Debug\net10.0\ApiLiberta
 D:\Work\Etec\2026-3AI_ETIM_PAMII\ApiLibertadoresHAS\obj\Debug\net10.0\ApiLibertadoresHAS.genruntimeconfig.cache
 D:\Work\Etec\2026-3AI_ETIM_PAMII\ApiLibertadoresHAS\obj\Debug\net10.0\ref\ApiLibertadoresHAS.dll
 D:\Work\Etec\2026-3AI_ETIM_PAMII\ApiLibertadoresHAS\obj\Debug\net10.0\ApiLibertadoresHAS.sourcelink.json
+D:\Work\Etec\2026-3AI_ETIM_PAMII\ApiLibertadoresHAS\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
